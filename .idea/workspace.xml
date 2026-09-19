@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30b84731-6061-43ca-a3b3-035b613516ee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Texas_Football_Tracker.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Texas_Football_Tracker.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texas_football_chart.png" beforeDir="false" afterPath="$PROJECT_DIR$/texas_football_chart.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/texas_football_prices.db" beforeDir="false" afterPath="$PROJECT_DIR$/texas_football_prices.db" afterDir="false" />
-    </list>
+    <list default="true" id="30b84731-6061-43ca-a3b3-035b613516ee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
